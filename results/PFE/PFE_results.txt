@@ -1,0 +1,3 @@
+Accuracy Comparison for PFE:
+HMM Only - RMSE: 0.01692664073024692, MAPE: inf%
+HMM + Fibonacci - RMSE: 0.017056390835601194, MAPE: inf%
